@@ -11,13 +11,13 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - Emergency Mode: Emergency mode to allow emergency responders to access while restricting other users.
 - Access Logs: Daily logs are generated automatically for all access attempts, successful and failed.
 - User and Role Management: Users and roles are able to be added, updated, or removed.
-- Room Management: Rooms can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
+- Room Management: Rooms can be added, updated, or removed and the state of each room may be switched between normal and emergency.
 
 ## Setup Instructions
 1. **Clone the Repository from Github**:
-   ```bash
+   
    git clone https://github.com/MichalJagoda/College-Room-Access-Control-System.git
-   ```
+   
 2. **Open in Visual Studio**:
    - Open `College Room Access Control System.sln` file into Visual Studio.
 3. **Build the Project**:
