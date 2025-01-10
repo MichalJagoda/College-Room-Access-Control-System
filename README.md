@@ -14,16 +14,21 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - Room Management: Rooms can be added, updated, or removed and the state of each room may be switched between normal and emergency.
 
 ## Setup Instructions
-1. **Clone the Repository from Github**:
+1. Clone the Repository from Github:
    
-   git clone https://github.com/MichalJagoda/College-Room-Access-Control-System.git
+   Git clone https://github.com/MichalJagoda/College-Room-Access-Control-System.git
    
-2. **Open in Visual Studio**:
-   - Open `College Room Access Control System.sln` file into Visual Studio.
-3. **Build the Project**:
-   - Use the `Build` option in Visual Studio to compile the application.
-4. **Run the Application**:
-   - Launch the application in Visual Studio using the `Start` button.
+2. Open in Visual Studio:
+   
+   Open `College Room Access Control System.sln` file into Visual Studio.
+
+4. Build the Project:
+   
+   Use the `Build` option in Visual Studio to compile the application.
+   
+6. Run the Application:
+   
+   Launch the application in Visual Studio using the `Start` button.
 
 ## Usage
 1. **Launch Application**:
