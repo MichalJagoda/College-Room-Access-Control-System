@@ -1,12 +1,12 @@
 ## College Room Access Control System
 
-## Project Overview
+# Project Overview
 This College Room Access Control System is a prototype software application designed to secure and manage access to college facilities 
 using a swipe card system. It is specialised to ensure efficient and secure access for all users (students, staff, visitors, cleaners, 
 managers, security and emergency responders) while demonstrating detailed logging and management capabilities.
 
 ## Features
-- **User Authentication**: Secure login for authorised users.
+- User Authentication: Secure login for authorised users.
 - **Room Access Management**: Room access is configured based on room types and user roles.
 - **Emergency Mode**: Emergency mode to allow emergency responders to access while restricting other users.
 - **Access Logs**: Daily logs are generated automatically for all access attempts, successful and failed.
