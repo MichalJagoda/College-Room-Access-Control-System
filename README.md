@@ -30,30 +30,29 @@ managers, security and emergency responders) while demonstrating detailed loggin
    
    Launch the application in Visual Studio using the `Start` button.
 
-## Usage
-Launch Application: Run form Visual Studio or double-click the executable file.
-Manage Users: Campus users may be added, updated, or removed and roles may be assigned.
-Manage Rooms: Rooms may be added, updated, or removed and their states set to NORMAL or EMERGENCY.
-Simulate Swipe: A swipe will simulate a user attempting to access a room and a log entry will be generated.
-View Logs: Room usage and security events can be monitored via the daily log file.
+# Usage
+- Launch Application: Run form Visual Studio or double-click the executable file.
+- Manage Users: Campus users may be added, updated, or removed and roles may be assigned.
+- Manage Rooms: Rooms may be added, updated, or removed and their states set to NORMAL or EMERGENCY.
+- Simulate Swipe: A swipe will simulate a user attempting to access a room and a log entry will be generated.
+- View Logs: Room usage and security events can be monitored via the daily log file.
 
-## Stakeholders
-- **Students**: Use their swipe cards to access authorised areas e.g. teaching rooms and lecture halls.
-- **Faculty Members**: Can gain secure access to teaching rooms, lecture halls, and staff rooms.
-- **College Management**: Room access activities can be monitored and audited for safety and efficiency.
-- **IT Administrators**: Configure and manage the swipe card system and all of its users.
-- **Emergency Responders**: Critical access is ensured during emergencies.
+# Stakeholders
+- Students: Use their swipe cards to access authorised areas e.g. teaching rooms and lecture halls.
+- Faculty Members: Can gain secure access to teaching rooms, lecture halls, and staff rooms.
+- College Management: Room access activities can be monitored and audited for safety and efficiency.
+- IT Administrators: Configure and manage the swipe card system and all of its users.
+- Emergency Responders: Critical access is ensured during emergencies.
 
-## Technologies Used
-- **Programming Language**: C#
-- **Framework**: .NET Framework
-- **Development Environment**: Microsoft Visual Studio
+# Technologies Used
+- Programming Language: C#
+- Framework: .NET Framework
+- Development Environment: Microsoft Visual Studio
 
-## Contact Information
+# Contact Information
 For further assistance or queries, please contact:
-- **Author**: Michal Jagoda
-- **Email**: 1396049@cityplym.ac.uk
-- **GitHub**: [GitHub Profile Link Here]
+- Author: Michal Jagoda
+- Email: 1396049@cityplym.ac.uk
 
 ---
 Thank you for using the College Room Access Control System. 
