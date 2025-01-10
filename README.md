@@ -31,16 +31,11 @@ managers, security and emergency responders) while demonstrating detailed loggin
    Launch the application in Visual Studio using the `Start` button.
 
 ## Usage
-1. **Launch Application**:
-   - Run form Visual Studio or double-click the executable file.
-2. **Manage Users**:
-   - Campus users may be added, updated, or removed and roles may be assigned.
-3. **Manage Rooms**:
-   - Rooms may be added, updated, or removed and their states set to NORMAL or EMERGENCY.
-4. **Simulate Swipe**:
-   - A swipe will simulate a user attempting to access a room and a log entry will be generated.
-5. **View Logs**:
-   - Room usage and security events can be monitored via the daily log file.
+Launch Application: Run form Visual Studio or double-click the executable file.
+Manage Users: Campus users may be added, updated, or removed and roles may be assigned.
+Manage Rooms: Rooms may be added, updated, or removed and their states set to NORMAL or EMERGENCY.
+Simulate Swipe: A swipe will simulate a user attempting to access a room and a log entry will be generated.
+View Logs: Room usage and security events can be monitored via the daily log file.
 
 ## Stakeholders
 - **Students**: Use their swipe cards to access authorised areas e.g. teaching rooms and lecture halls.
