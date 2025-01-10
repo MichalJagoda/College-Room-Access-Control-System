@@ -1,0 +1,3 @@
+1/6/2025 7:01:07 PM, Room MA312 in Building Maths, Floor 3, Room 12 state changed to Emergency
+1/6/2025 7:01:44 PM, Room MA312 in Building Maths, Floor 3, Room 12 state changed to Normal
+1/6/2025 10:28:24 PM, Room RS232 in RS Building, Floor 2, Room 32 state changed to Emergency

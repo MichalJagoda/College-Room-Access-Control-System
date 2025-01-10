@@ -1,0 +1,22 @@
+1/7/2025 4:22:57 PM,1,Manager,AA11,AA,1,1,Granted,Normal
+1/7/2025 4:23:20 PM,1,Manager,AA11,AA,1,1,Granted,Normal
+1/7/2025 4:23:28 PM, Room AA11 in AA Building, Floor 1, Room 1 state changed to Emergency
+1/7/2025 4:23:39 PM,1,Manager,AA11,AA,1,1,Denied,Emergency
+1/7/2025 4:24:15 PM,1,EmergencyResponder,AA11,AA,1,1,Granted,Emergency
+1/7/2025 4:26:17 PM,2,ContractCleaner,AA22,AA,2,2,Denied,Normal
+1/7/2025 4:26:51 PM,2,ContractCleaner,AA22,AA,2,2,Denied,Normal
+1/7/2025 4:27:45 PM,2,ContractCleaner,AA22,AA,2,2,Denied,Normal
+1/7/2025 5:26:29 PM,1,StaffMember,AA11,AA,1,1,Granted,Normal
+1/7/2025 8:40:04 PM,1234,StaffMember,KS23,KS,2,3,Granted,Normal
+1/7/2025 8:48:04 PM,123,StaffMember,KS23,KS,2,3,Granted,Normal
+1/7/2025 8:48:19 PM,123,StaffMember,KS23,KS,2,3,Granted,Normal
+1/7/2025 8:49:04 PM,123,StaffMember,KS23,KS,2,3,Granted,Normal
+1/7/2025 9:06:22 PM,123,StaffMember,KS23,KS,2,3,Granted,Normal
+2025-01-07 18:48:17,123,StaffMember,KS23,KS,2,3,Granted,Normal
+2025-01-29 18:48:17,123,StaffMember,KS23,KS,2,3,Granted,Normal
+2025-01-29 09:48:17,123,ContractCleaner,KS23,KS,2,3,Granted,Normal
+2025-01-29 11:48:17,123,ContractCleaner,KS23,KS,2,3,Denied,Normal
+Room KS23 in KS Building, Floor 2, Room 3 state changed to Emergency,System,,KS23,KS,2,3,Denied,Emergency
+2025-01-29 09:48:17,123,,ks23,N/A,N/A,N/A,Denied,Unknown
+2025-01-29 09:48:17,123,ContractCleaner,KS23,KS,2,3,Denied,Emergency
+2025-01-07 23:31:21,123,James,StaffMember,KS23,KS,2,3,Granted,Normal

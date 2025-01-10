@@ -1,0 +1,31 @@
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\College Room Access Control System.exe.config
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\College Room Access Control System.exe
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\College Room Access Control System.pdb
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College Room Access Control System.csproj.AssemblyReference.cache
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College_Room_Access_Control_System.Form1.resources
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College_Room_Access_Control_System.Properties.Resources.resources
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College Room Access Control System.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College Room Access Control System.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College Room Access Control System.exe
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College Room Access Control System.pdb
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Buffers.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.IO.Pipelines.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Memory.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Numerics.Vectors.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Text.Json.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.ValueTuple.dll
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Buffers.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.IO.Pipelines.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Memory.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Numerics.Vectors.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Text.Json.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\bin\Debug\System.ValueTuple.xml
+C:\Mac\Home\Documents\Plymouth college\Visual Studio\Class work\College Room Access Control System\College Room Access Control System\obj\Debug\College .F2032805.Up2Date
