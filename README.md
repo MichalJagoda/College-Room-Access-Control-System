@@ -14,16 +14,16 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - **Room Management**: Rooma can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
 
 ## Setup Instructions
-1. **Clone the Repository**:
+1. **Clone the Repository from Github**:
    ```bash
    git clone https://github.com/MichalJagoda/College-Room-Access-Control-System.git
    ```
 2. **Open in Visual Studio**:
-   - Open the `College Room Access Control System.sln` file in Visual Studio.
+   - Open `College Room Access Control System.sln` file into Visual Studio.
 3. **Build the Project**:
    - Use the `Build` option in Visual Studio to compile the application.
 4. **Run the Application**:
-   - Launch the application using the `Start` button in Visual Studio.
+   - Launch the application in Visual Studio using the `Start` button.
 
 ## Usage
 1. **Launch Application**:
@@ -66,17 +66,12 @@ College-Room-Access-Control-System/
   - room_access_log_{date}.txt
 ```
 
-## Future Enhancements
-- **Advanced Role Management**: Implement additional role-based permissions.
-- **Biometric Authentication**: Add support for fingerprint or facial recognition.
-- **Cloud Integration**: Store access logs and user data securely in the cloud.
-
 ## Contact Information
 For further assistance or queries, please contact:
 - **Author**: Michal Jagoda
-- **Email**: [Your Email Address Here]
+- **Email**: 1396049@cityplym.ac.uk
 - **GitHub**: [GitHub Profile Link Here]
 
 ---
-Thank you for using the College Room Access Control System. Your feedback is appreciated!
+Thank you for using the College Room Access Control System. 
 
