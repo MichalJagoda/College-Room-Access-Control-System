@@ -7,11 +7,11 @@ managers, security and emergency responders) while demonstrating detailed loggin
 
 ## Features
 - User Authentication: Secure login for authorised users.
-- **Room Access Management**: Room access is configured based on room types and user roles.
-- **Emergency Mode**: Emergency mode to allow emergency responders to access while restricting other users.
-- **Access Logs**: Daily logs are generated automatically for all access attempts, successful and failed.
-- **User and Role Management**: Users and roles are able to be added, updated, or removed.
-- **Room Management**: Rooms can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
+- Room Access Management: Room access is configured based on room types and user roles.
+- Emergency Mode: Emergency mode to allow emergency responders to access while restricting other users.
+- Access Logs: Daily logs are generated automatically for all access attempts, successful and failed.
+- User and Role Management: Users and roles are able to be added, updated, or removed.
+- Room Management: Rooms can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
 
 ## Setup Instructions
 1. **Clone the Repository from Github**:
