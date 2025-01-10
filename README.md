@@ -26,29 +26,28 @@ managers, security and emergency responders) while demonstrating detailed loggin
    - Launch the application using the `Start` button in Visual Studio.
 
 ## Usage
-1. **Launch the Application**:
-   - Double-click the executable file generated in the `bin/Debug` folder or run from Visual Studio.
+1. **Launch Application**:
+   - Run form Visual Studio or double-click the executable file.
 2. **Manage Users**:
-   - Add, update, or remove campus users and assign roles.
+   - Campus users may be added, updated, or removed and roles may be assigned.
 3. **Manage Rooms**:
-   - Add, update, or remove rooms and set their states to NORMAL or EMERGENCY.
+   - Rooms may be added, updated, or removed and their states set to NORMAL or EMERGENCY.
 4. **Simulate Swipe**:
-   - Simulate a user attempting to access a room, generating a log entry.
+   - A swipe will simulate a user attempting to access a room and a log entry will be generated.
 5. **View Logs**:
-   - Access the daily log file to monitor room usage and security events.
+   - Room usage and security events can be monitored via the daily log file.
 
 ## Stakeholders
-- **IT Administrators**: Configure and manage the swipe card system and its users.
-- **Faculty Members**: Gain secure access to lecture halls, teaching rooms, and staff rooms.
-- **Students**: Use swipe cards to access authorised areas like lecture halls and labs.
-- **College Management**: Monitor and audit room access activities for safety and efficiency.
-- **Emergency Responders**: Ensure critical access during emergencies.
+- **Students**: Use their swipe cards to access authorised areas e.g. teaching rooms and lecture halls.
+- **Faculty Members**: Can gain secure access to teaching rooms, lecture halls, and staff rooms.
+- **College Management**: Room access activities can be monitored and audited for safety and efficiency.
+- **IT Administrators**: Configure and manage the swipe card system and all of its users.
+- **Emergency Responders**: Critical access is ensured during emergencies.
 
 ## Technologies Used
 - **Programming Language**: C#
 - **Framework**: .NET Framework
 - **Development Environment**: Microsoft Visual Studio
-- **Database**: (Specify if applicable, e.g., SQL Server or SQLite)
 
 ## Repository Structure
 ```
