@@ -5,7 +5,7 @@ This College Room Access Control System is a prototype software application desi
 using a swipe card system. It is specialised to ensure efficient and secure access for all users (students, staff, visitors, cleaners, 
 managers, security and emergency responders) while demonstrating detailed logging and management capabilities.
 
-## Features
+# Features
 - User Authentication: Secure login for authorised users.
 - Room Access Management: Room access is configured based on room types and user roles.
 - Emergency Mode: Emergency mode to allow emergency responders to access while restricting other users.
@@ -13,7 +13,7 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - User and Role Management: Users and roles are able to be added, updated, or removed.
 - Room Management: Rooms can be added, updated, or removed and the state of each room may be switched between normal and emergency.
 
-## Setup Instructions
+# Setup Instructions
 1. Clone the Repository from Github:
    
    Git clone https://github.com/MichalJagoda/College-Room-Access-Control-System.git
