@@ -11,7 +11,7 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - **Emergency Mode**: Emergency mode to allow emergency responders to access while restricting other users.
 - **Access Logs**: Daily logs are generated automatically for all access attempts, successful and failed.
 - **User and Role Management**: Users and roles are able to be added, updated, or removed.
-- **Room Management**: Rooma can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
+- **Room Management**: Rooms can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
 
 ## Setup Instructions
 1. **Clone the Repository from Github**:
@@ -48,23 +48,6 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - **Programming Language**: C#
 - **Framework**: .NET Framework
 - **Development Environment**: Microsoft Visual Studio
-
-## Repository Structure
-```
-College-Room-Access-Control-System/
-  - README.md
-  - .gitignore
-  - College Room Access Control System.sln
-  - App.config
-  - Form1.cs
-  - Form1.Designer.cs
-  - Program.cs
-  - Properties/
-  - bin/
-  - obj/
-  - ID_Card_List.txt
-  - room_access_log_{date}.txt
-```
 
 ## Contact Information
 For further assistance or queries, please contact:
