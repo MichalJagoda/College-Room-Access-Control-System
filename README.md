@@ -11,7 +11,7 @@ managers, security and emergency responders) while demonstrating detailed loggin
 - **Emergency Mode**: Emergency mode to allow emergency responders to access while restricting other users.
 - **Access Logs**: Daily logs are generated automatically for all access attempts, successful and failed.
 - **User and Role Management**: Users and roles are able to be added, updated, or removed.
-- **Room Management**: Add, update, or remove rooms and change their states between NORMAL and EMERGENCY.
+- **Room Management**: Rooma can be added, updated, or removed and the state of each room may be switched between NORMAL and EMERGENCY.
 
 ## Setup Instructions
 1. **Clone the Repository**:
